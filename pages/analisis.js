@@ -273,13 +273,13 @@ export default function Analisis() {
             <p className="text-xl text-gray-100 mb-8 max-w-2xl mx-auto">
               Member CTASaham mendapat akses ke analisis premium, rekomendasi harian, dan support langsung dari expert
             </p>
-            <a
+            <Link
               href="/paket-harga"
               className="btn-primary bg-white text-primary-700 hover:bg-gray-100 inline-flex items-center gap-2"
             >
               Lihat Paket Member
               <TrendingUp className="w-5 h-5" />
-            </a>
+            </Link>
           </div>
         </div>
       </section>

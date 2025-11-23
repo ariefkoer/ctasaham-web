@@ -1,5 +1,6 @@
 import Image from 'next/image'
 import { Award, TrendingUp, Users, BookOpen } from 'lucide-react'
+import Link from 'next/link'
 
 export default function AboutSection() {
   const highlights = [

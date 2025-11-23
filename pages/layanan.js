@@ -3,6 +3,7 @@ import {
   TrendingUp, BarChart3, LineChart, GraduationCap, 
   Moon, MessageSquare, CheckCircle, Clock, Target, Award
 } from 'lucide-react'
+import Link from 'next/link'
 
 export default function Layanan() {
   const services = [
