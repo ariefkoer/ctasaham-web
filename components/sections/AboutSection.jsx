@@ -94,18 +94,18 @@ export default function AboutSection() {
 
             {/* CTA */}
             <div className="flex flex-col sm:flex-row gap-4">
-              <a 
+              <Link 
                 href="/tentang-kami"
                 className="btn-primary"
               >
                 Pelajari Lebih Lanjut
-              </a>
-              <a 
+              </Link>
+              <Link 
                 href="/kontak"
                 className="btn-outline"
               >
                 Hubungi Kami
-              </a>
+              </Link>
             </div>
           </div>
         </div>

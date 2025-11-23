@@ -253,12 +253,12 @@ export default function Layanan() {
             >
               Konsultasi Gratis
             </a>
-            <a
+            <Link
               href="/paket-harga"
               className="btn-outline border-white text-white hover:bg-white hover:text-primary-700"
             >
               Lihat Paket & Harga
-            </a>
+            </Link>
           </div>
         </div>
       </section>

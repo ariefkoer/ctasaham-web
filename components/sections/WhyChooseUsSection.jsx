@@ -108,8 +108,8 @@ export default function WhyChooseUsSection() {
               </div>
               
               <blockquote className="text-lg mb-6 leading-relaxed italic">
-                "CTASaham benar-benar mengubah cara saya trading. Dari yang tadinya sering loss, 
-                sekarang bisa profit konsisten setiap bulan. Analisnya akurat dan edukasinya lengkap!"
+                &ldquo;CTASaham benar-benar mengubah cara saya trading. Dari yang tadinya sering loss, 
+                sekarang bisa profit konsisten setiap bulan. Analisnya akurat dan edukasinya lengkap!&rdquo;
               </blockquote>
               
               <div className="flex items-center gap-4">

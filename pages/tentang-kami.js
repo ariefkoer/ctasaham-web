@@ -128,8 +128,8 @@ export default function TentangKami() {
                 </p>
 
                 <p className="font-semibold text-primary-700">
-                  "Trading bukan tentang berapa kali Anda profit, tapi tentang konsistensi dan disiplin 
-                  dalam menjalankan strategi yang terbukti efektif."
+                  &ldquo;Trading bukan tentang berapa kali Anda profit, tapi tentang konsistensi dan disiplin 
+                  dalam menjalankan strategi yang terbukti efektif.&rdquo;
                 </p>
               </div>
             </div>
